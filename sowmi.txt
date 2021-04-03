@@ -1,9 +1,0 @@
-
-my name is sowmi
-b.tech info tech
-<<<<<<< HEAD
-kongu engineering college
-=======
-perundurai
-
->>>>>>> ref
